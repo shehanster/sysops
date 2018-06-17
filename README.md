@@ -1,3 +1,3 @@
 # sysops
 
-Sys-Ops blog
+Sys-Ops.io blog

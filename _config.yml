@@ -18,7 +18,7 @@ email: shehanster@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tales of a DevOps guy.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://sys-ops.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shehanster
 github_username:  shehanster
 linkedin_username: shehan-marino-perera
